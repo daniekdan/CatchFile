@@ -2,6 +2,8 @@
 
 Aplikacja służąca do komunikacji, przesyłania plików, dzielenia się zadaniami oraz zarządzania terminarzem.
 
+Link do najnowszej wersji: https://github.com/danzym509/CatchFile/releases
+
 Postęp:
 - [x] Podstawowy czat
 - [ ] Rozbudowany czat o zdjęcia
