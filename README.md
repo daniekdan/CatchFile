@@ -4,12 +4,12 @@ Aplikacja służąca do komunikacji, przesyłania plików, dzielenia się zadani
 
 Postęp:
 - [x] Podstawowy czat
-- [] Rozbudowany czat o zdjęcia
-- [] Wrzucanie plików
+- [ ] Rozbudowany czat o zdjęcia
+- [ ] Wrzucanie plików
 - [x] Tworzenie zadań
-- [] Wiązanie plików do zadań i wiadomości
-- [] Kalendarz
-- [] System uprawnień
+- [ ] Wiązanie plików do zadań i wiadomości
+- [ ] Kalendarz
+- [ ] System uprawnień
 
 |Wersja|1.0.0-alpha.2  |
 |--|--|
