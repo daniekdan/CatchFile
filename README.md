@@ -15,4 +15,8 @@ Postęp:
 |--|--|
 |Autor|Daniel Żymek  |
 
+Changelog:
+- Dodano zadania
+- Poprawki czatu
+
 Wszelkie błędy proszę zgłaszać do mnie, lub na GitHubie. Jest to wersja alpha, więc zawiera je na pewno.
